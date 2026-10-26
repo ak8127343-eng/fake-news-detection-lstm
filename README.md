@@ -55,6 +55,31 @@ For this project, the LSTM model will be used to learn patterns from sequences o
 - Google Colab
 - Git
 - GitHub
+  
+## 📁 Project Structure
+
+fake-news-detection-system/
+│
+├── README.md
+├── fake_news_detection_lstm.ipynb
+├── requirements.txt
+│
+├── data/
+│   └── README.md
+│
+└── models/
+    └── README.md
+
+### 📂 Folder and File Description
+
+- **README.md** — Contains the project overview, objectives, workflow, technologies, and documentation.
+- **fake_news_detection_lstm.ipynb** — Google Colab notebook containing data preprocessing, LSTM model development, training, evaluation, and prediction code.
+- **requirements.txt** — Lists the Python libraries required to run the project.
+- **data/** — Stores dataset-related documentation and instructions. Large datasets can be kept outside GitHub when appropriate.
+- **models/** — Contains documentation and instructions for saving or loading the trained LSTM model.
+
+*Note: This is the planned project structure. Files and folders will be added as development progresses.*
+
 
 ## 📊 Dataset
 
