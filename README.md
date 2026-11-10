@@ -156,3 +156,4 @@ The system can later be extended with:
 ---
 
 > This project is developed for learning and academic purposes.
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ak8127343-eng/fake-news-detection-lstm/blob/main/fake_news_detection_lstm.ipynb)
